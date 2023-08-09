@@ -73,7 +73,7 @@
     "title": "culpa ipsum"
   }
 ],
-    "actions2": [
+    "otras": [
   {
     "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
     "category": "male",
@@ -117,7 +117,7 @@
     "title": "culpa ipsum"
   }
 ],
-  "actions3": [
+  "cosas": [
   {
     "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
     "category": "male",
@@ -161,7 +161,7 @@
     "title": "culpa ipsum"
   }
 ],
-    "actions4": [
+    "yeaa": [
   {
     "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
     "category": "male",
@@ -205,7 +205,7 @@
     "title": "culpa ipsum"
   }
 ],
-  "actions5": [
+  "items": [
   {
     "uuid": "5f33246a-1a51-48f6-bf0c-55daae249aca",
     "category": "male",
